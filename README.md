@@ -8,7 +8,7 @@ This project is a simple Quiz Website created using HTML, CSS, and JavaScript. T
 * ⏱️ Timer for each quiz session (optional).
 * 🎯 User-friendly interface.
 # 🌐 Demo
-      A live demo of the project can be accessed at [file:///C:/Users/Riya%20Vishwakarma/OneDrive/Desktop/Practice/Quiz%20App/index.html].
+      A live demo of the project can be accessed at [https://riyavishwakarma24.github.io/Quiz_App/].
 #  🛠️ Technologies Used
 * 🏗️ HTML5: Structure and content of the quiz.
 * 🎨 CSS3: Styling and layout to make the website visually appealing.
