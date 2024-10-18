@@ -7,3 +7,16 @@ This project is a simple Quiz Website created using HTML, CSS, and JavaScript. T
 * 📱 Responsive design — works well on mobile and desktop.
 * ⏱️ Timer for each quiz session (optional).
 * 🎯 User-friendly interface.
+# 🌐 Demo
+      A live demo of the project can be accessed at [file:///C:/Users/Riya%20Vishwakarma/OneDrive/Desktop/Practice/Quiz%20App/index.html].
+#  🛠️ Technologies Used
+* 🏗️ HTML5: Structure and content of the quiz.
+* 🎨 CSS3: Styling and layout to make the website visually appealing.
+* 🧠 JavaScript: Logic for quiz functionality, score calculation, and interactivity.
+# 🎮 How to Play
+* Open the website and click on the Start Quiz button.
+* A question will appear with four possible answers.
+* Select the answer you think is correct.
+* The quiz will provide instant feedback on whether the selected answer is correct.
+* Once all questions are answered, your score will be displayed.
+  
