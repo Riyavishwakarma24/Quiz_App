@@ -5,7 +5,6 @@ This project is a simple Quiz Website created using HTML, CSS, and JavaScript. T
 * ✅ Instant feedback on selected answers.
 * 📊 Score tracking for correct answers.
 * 📱 Responsive design — works well on mobile and desktop.
-* ⏱️ Timer for each quiz session (optional).
 * 🎯 User-friendly interface.
 # 🌐 Demo
       A live demo of the project can be accessed at [https://riyavishwakarma24.github.io/Quiz_App/].
